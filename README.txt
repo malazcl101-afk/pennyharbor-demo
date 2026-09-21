@@ -18,3 +18,4 @@ a hosted database and authentication service.
 Brand
 Product name: PennyHarbor
 Descriptor: Budget Planner
+
