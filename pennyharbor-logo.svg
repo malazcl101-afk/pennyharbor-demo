@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">PennyHarbor Budget Planner logo</title>
+  <desc id="desc">A navy and mint PH monogram beside the PennyHarbor wordmark.</desc>
+  <rect width="1200" height="360" rx="44" fill="#F8FAF7"/>
+  <g transform="translate(70 50)">
+    <rect width="260" height="260" rx="68" fill="#132A3A"/>
+    <circle cx="88" cy="83" r="27" fill="#E8B85B"/>
+    <path d="M72 199V116h66c41 0 68 23 68 57 0 23-12 41-33 50" fill="none" stroke="#91DFC0" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M141 119v82M141 160h61M202 119v82" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+    <path d="M48 220c35-22 70-22 105 0s70 22 105 0" fill="none" stroke="#91DFC0" stroke-width="10" stroke-linecap="round" opacity=".9"/>
+  </g>
+  <g transform="translate(390 105)">
+    <text x="0" y="70" fill="#132A3A" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="750" letter-spacing="-3">Penny<tspan fill="#2B8C71">Harbor</tspan></text>
+    <text x="4" y="126" fill="#63727A" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="6">BUDGET PLANNER</text>
+  </g>
+</svg>
